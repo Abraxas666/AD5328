@@ -1,4 +1,4 @@
-# AD5328 ibrary for Arduino family v1.0.0 
+# AD5328 library for Arduino family v1.0.0 
 
 Author: Abraxas666
 
