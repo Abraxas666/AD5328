@@ -2,5 +2,5 @@
 
 Author: Abraxas666
 
-The iibrary allowed to use the 8 channel 12 bit DAC AD5328 integrated circuit
-The library have been developed with bitbanged SPI, in order to give the maximum flexibilty for the projects
+The library allowed to use the 8 channel 12 bit DAC AD5328 integrated circuit
+The library have been developed with bit-banged SPI, in order to give the maximum flexibilty for the projects
